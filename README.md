@@ -6,7 +6,7 @@ Code : Flutter Project
 
 ====================================================
 
-Note : Can you Downloads My Project and injuy With Full Scoure Code X Anime Style 
+Note : Downloads My Project and injuy With Full Scoure Code X Anime Style 
 
 Database : Dont Worry this Project Store in local Storage 
 
