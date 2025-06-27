@@ -4,9 +4,9 @@ DEV BY @Zaal
 
 Telegram : Szaalneeth
 
-=======================
-set up project 
-=======================
+
+Setup project 
+
 
 1 flutter pub get 
 
